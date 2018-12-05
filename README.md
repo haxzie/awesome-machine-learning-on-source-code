@@ -28,6 +28,7 @@ A curated list of awesome research papers, datasets and software projects devote
         - [AST Differencing](#ast-differencing)
         - [Binary Data Modeling](#binary-data-modeling)
         - [Soft Clustering Using T-mixture Models](#soft-clustering-using-t-mixture-models)
+        - [Natural Language Parsing and Comprehension](#natural-language-parsing-and-comprehension)
         </details>
 - [Posts](#posts)
 - [Talks](#talks)
